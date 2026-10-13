@@ -83,17 +83,6 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=001A0D&ring=00FF88&fire=39FF14&currStreakLabel=00FF88&sideLabels=C6FFE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=86EFAC"/>
 
 </div>
-
----
-
-<h2 align="center">CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=001A0D&color=C6FFE0&line=00FF88&point=39FF14&area=true&hide_border=true" width="100%"/>
-
-</div>
-
 ---
 
 <h2 align="center">LET'S CONNECT</h2>
