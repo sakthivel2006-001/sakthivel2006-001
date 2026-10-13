@@ -63,18 +63,17 @@
 
 <div align="center">
 
-<h3>THITTAM</h3>
+<h3>𝗧𝗛𝗜𝗧𝗧𝗔𝗠</h3>
+𝗔 𝗴𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 𝘄𝗲𝗹𝗳𝗮𝗿𝗲 𝘀𝗰𝗵𝗲𝗺𝗲 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝘆 𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘂𝘀𝗲𝗿𝘀 𝗳𝗶𝗻𝗱 𝗿𝗲𝗹𝗲𝘃𝗮𝗻𝘁 𝘀𝗰𝗵𝗲𝗺𝗲𝘀 𝗮𝗻𝗱 𝗼𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗮 𝘀𝗶𝗺𝗽𝗹𝗲, 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗹𝗲 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲.
 
-A government welfare scheme discovery platform designed to help users find relevant schemes and opportunities through a simple, accessible interface.
+**𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀**
 
-**Key Features**
+- 𝗚𝗼𝘃𝗲𝗿𝗻𝗺𝗲𝗻𝘁 𝘀𝗰𝗵𝗲𝗺𝗲 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝘆
+- 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 𝗮𝗻𝗱 𝗧𝗮𝗺𝗶𝗹 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝘀𝘂𝗽𝗽𝗼𝗿𝘁
+- 𝗨𝘀𝗲𝗿-𝗳𝗿𝗶𝗲𝗻𝗱𝗹𝘆 𝗶𝗻𝘁𝗲𝗿𝗳𝗮𝗰𝗲
+- 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗲𝗱 𝘀𝗰𝗵𝗲𝗺𝗲 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻
 
-- Government scheme discovery
-- English and Tamil language support
-- User-friendly interface
-- Personalized scheme information
-
-**Technologies:** Update this section with the actual technologies used in your project.
+**𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:** Add the actual technologies used in your project.
 
 </div>
 
