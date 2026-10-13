@@ -1,57 +1,49 @@
 
-<!-- ========================================= -->
-<!--       SAKTHIVEL S - GITHUB PROFILE         -->
-<!-- ========================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:FF8C00&height=200&section=header&text=SAKTHIVEL%20S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:166534,100:22C55E&height=200&section=header&text=SAKTHIVEL%20S&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18" width="100%" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Java+%7C+Python+%7C+JavaScript;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Java+%7C+Python+%7C+JavaScript;Turning+Ideas+Into+Digital+Solutions" />
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=FF8C00" />
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-166534?style=for-the-badge&logo=github&logoColor=4ADE80" />
+<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-14532D?style=for-the-badge&logoColor=4ADE80" />
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&color=15803D" />
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-24292e?style=for-the-badge&logo=github" />
-</a>
+
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-166534?style=for-the-badge&logo=linkedin&logoColor=4ADE80" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🟢 About Me
 
 ```javascript
 const sakthivel = {
-    role: "Full Stack Developer",
-    education: "B.Tech Information Technology",
-    college: "Saveetha Engineering College",
-    languages: ["Java", "Python", "JavaScript"],
-    frontend: ["HTML", "CSS", "React.js"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "SQL"],
-    tools: ["Git", "GitHub", "VS Code"],
-    interests: [
-        "Full Stack Development",
-        "Problem Solving",
-        "Building Real-World Applications"
-    ],
-    goal: "Build useful, scalable digital products"
+  role: "Full Stack Developer",
+  education: "B.Tech Information Technology",
+  college: "Saveetha Engineering College",
+  languages: ["Java", "Python", "JavaScript"],
+  frontend: ["HTML", "CSS", "React.js"],
+  backend: ["Node.js", "Express.js", "REST APIs"],
+  database: ["MongoDB", "SQL"],
+  tools: ["Git", "GitHub", "VS Code"],
+  focus: "Building modern web applications"
 };
 ```
 
-- 🚀 Passionate about building modern, responsive web applications.
-- 💻 Interested in frontend development, backend systems, and database design.
-- 🧠 Continuously improving my coding and problem-solving skills.
-- 🤝 Open to collaboration, internships, and developer opportunities.
+- 🌿 Passionate about full-stack web development.
+- 💻 Building responsive and user-friendly applications.
+- 🧠 Improving coding, debugging, and problem-solving skills.
+- 🤝 Interested in collaboration and developer opportunities.
 
 ---
 
@@ -80,9 +72,8 @@ const sakthivel = {
 
 ### ✈️ Flight Fare Prediction
 
-Machine learning project focused on predicting airline ticket prices using historical flight data and deep learning techniques.
+Predicting airline ticket prices using historical flight data and deep learning techniques.
 
-**Focus areas**
 - Data preprocessing
 - Feature engineering
 - Predictive modeling
@@ -92,16 +83,15 @@ Machine learning project focused on predicting airline ticket prices using histo
 </td>
 <td width="50%">
 
-### 🌐 ThittamAI
+### 🌱 ThittamAI
 
 A government welfare scheme discovery platform designed to help users find relevant schemes and opportunities.
 
-**Focus areas**
-- User-friendly interface
 - Scheme discovery
 - English and Tamil language support
+- User-friendly interface
 
-**Tech:** Add your actual frontend, backend, and database stack.
+**Tech:** Add your actual project technologies.
 
 </td>
 </tr>
@@ -113,23 +103,23 @@ A government welfare scheme discovery platform designed to help users find relev
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=4ADE80&icon_color=22C55E&text_color=BBF7D0&bg_color=052E16" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF8C00&text_color=FFFFFF&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=4ADE80&text_color=BBF7D0&bg_color=052E16" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&background=0D1117" width="70%" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=052E16&ring=4ADE80&fire=22C55E&currStreakLabel=4ADE80&sideLabels=BBF7D0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=86EFAC" width="70%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 🌿 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=052E16&color=BBF7D0&line=22C55E&point=4ADE80&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -139,20 +129,22 @@ A government welfare scheme discovery platform designed to help users find relev
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Profile-14532D?style=for-the-badge&logo=github&logoColor=4ADE80" />
 </a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-166534?style=for-the-badge&logo=linkedin&logoColor=4ADE80" />
+</a>
+
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-15803D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-**"Building ideas into applications, one line of code at a time."**
+### 🌱 "Growing through code. Building through creativity."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:243B55,100:141E30&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:166534,100:052E16&height=110&section=footer" width="100%" />
 
 </div>
