@@ -65,7 +65,7 @@ Currently pursuing B.Tech in Information Technology at Saveetha Engineering Coll
 
 <div align="center">
 
-<h3>THITTAMAI</h3>
+<h3>THITTAM</h3>
 
 A government welfare scheme discovery platform designed to help users find relevant schemes and opportunities through a simple, accessible interface.
 
