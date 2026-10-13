@@ -27,11 +27,9 @@
   <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-001A0D?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </p>
 
-I am a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into practical digital solutions through clean frontend design and reliable backend development.
+𝙄 𝙖𝙢 𝙖 𝙁𝙪𝙡𝙡 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙢𝙤𝙙𝙚𝙧𝙣, 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙞𝙫𝙚 𝙬𝙚𝙗 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨. 𝙄 𝙚𝙣𝙟𝙤𝙮 𝙨𝙤𝙡𝙫𝙞𝙣𝙜 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙨, 𝙚𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙣𝙚𝙬 𝙩𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨, 𝙖𝙣𝙙 𝙩𝙪𝙧𝙣𝙞𝙣𝙜 𝙞𝙙𝙚𝙖𝙨 𝙞𝙣𝙩𝙤 𝙥𝙧𝙖𝙘𝙩𝙞𝙘𝙖𝙡 𝙙𝙞𝙜𝙞𝙩𝙖𝙡 𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣𝙨.
 
-My interests include web development, API integration, database management, and solving real-world problems through technology. I continuously learn new tools and improve my development skills through hands-on projects.
-
-Currently pursuing B.Tech in Information Technology at Saveetha Engineering College, I aim to build scalable applications and grow as a software professional.
+𝙈𝙮 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨 𝙞𝙣𝙘𝙡𝙪𝙙𝙚 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩, 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙚𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜, 𝘼𝙋𝙄 𝙞𝙣𝙩𝙚𝙜𝙧𝙖𝙩𝙞𝙤𝙣, 𝙖𝙣𝙙 𝙙𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙢𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩. 𝙄 𝙘𝙤𝙣𝙩𝙞𝙣𝙪𝙤𝙪𝙨𝙡𝙮 𝙬𝙤𝙧𝙠 𝙩𝙤 𝙞𝙢𝙥𝙧𝙤𝙫𝙚 𝙢𝙮 𝙩𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙨𝙠𝙞𝙡𝙡𝙨 𝙖𝙣𝙙 𝙘𝙧𝙚𝙖𝙩𝙚 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 𝙩𝙝𝙖𝙩 𝙙𝙚𝙡𝙞𝙫𝙚𝙧 𝙢𝙚𝙖𝙣𝙞𝙣𝙜𝙛𝙪𝙡 𝙪𝙨𝙚𝙧 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨.
 
 <p align="center">
   <img src="https://img.shields.io/badge/BUILD-00FF88?style=flat-square&labelColor=001A0D"/>
