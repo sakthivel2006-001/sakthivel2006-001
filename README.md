@@ -83,7 +83,6 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=001A0D&ring=00FF88&fire=39FF14&currStreakLabel=00FF88&sideLabels=C6FFE0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=86EFAC"/>
 
 </div>
----
 
 <h2 align="center">LET'S CONNECT</h2>
 
