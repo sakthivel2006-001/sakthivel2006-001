@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center">FEATURED PROJECT</h2>
+<h2 align="center">PROJECT</h2>
 
 <div align="center">
 
